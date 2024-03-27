@@ -1,0 +1,168 @@
++----------+-----+
+|event_name|count|
++----------+-----+
++----------+-----+
+
+Processing Time: 10.189337015151978
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|    4|
+|       hover|    4|
+|more_details|    4|
++------------+-----+
+
+Processing Time: 8.568247079849243
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 1308|
+|       hover| 1311|
+|more_details| 1311|
++------------+-----+
+
+Processing Time: 4.633462905883789
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 2179|
+|       hover| 2182|
+|more_details| 2181|
++------------+-----+
+
+Processing Time: 4.619539976119995
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 3029|
+|       hover| 3033|
+|more_details| 3031|
++------------+-----+
+
+Processing Time: 4.26650333404541
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 3790|
+|       hover| 3793|
+|more_details| 3791|
++------------+-----+
+
+Processing Time: 3.7336249351501465
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 4571|
+|       hover| 4573|
+|more_details| 4570|
++------------+-----+
+
+Processing Time: 4.111207962036133
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 5463|
+|       hover| 5464|
+|more_details| 5459|
++------------+-----+
+
+Processing Time: 4.095423936843872
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 6256|
+|       hover| 6255|
+|more_details| 6250|
++------------+-----+
+
+Processing Time: 4.176213979721069
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 7026|
+|       hover| 7019|
+|more_details| 7015|
++------------+-----+
+
+Processing Time: 3.9312169551849365
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 7757|
+|       hover| 7749|
+|more_details| 7745|
++------------+-----+
+
+Processing Time: 4.128129959106445
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 8529|
+|       hover| 8518|
+|more_details| 8516|
++------------+-----+
+
+Processing Time: 3.9871339797973633
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 9260|
+|       hover| 9249|
+|more_details| 9250|
++------------+-----+
+
+Processing Time: 3.717810869216919
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 9957|
+|       hover| 9948|
+|more_details| 9948|
++------------+-----+
+
+Processing Time: 3.644587755203247
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|10671|
+|       hover|10663|
+|more_details|10664|
++------------+-----+
+
+Processing Time: 3.8015990257263184
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|11386|
+|       hover|11378|
+|more_details|11382|
++------------+-----+
+
+Processing Time: 3.4855618476867676
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|11760|
+|       hover|11753|
+|more_details|11756|
++------------+-----+
+
+Processing Time: 4.92036509513855
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|11953|
+|       hover|11946|
+|more_details|11948|
++------------+-----+
+
+Processing Time: 4.3676300048828125
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|12501|
+|       hover|12495|
+|more_details|12498|
++------------+-----+
+
+Processing Time: 3.5910542011260986

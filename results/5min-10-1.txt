@@ -1,0 +1,108 @@
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|    6|
+|       hover|    6|
+|more_details|    6|
++------------+-----+
+
+Processing Time: 17.384933710098267
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 3798|
+|       hover| 3793|
+|more_details| 3790|
++------------+-----+
+
+Processing Time: 15.771504163742065
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 6437|
+|       hover| 6436|
+|more_details| 6434|
++------------+-----+
+
+Processing Time: 12.052582025527954
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list| 8642|
+|       hover| 8637|
+|more_details| 8636|
++------------+-----+
+
+Processing Time: 13.919616937637329
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|11069|
+|       hover|11068|
+|more_details|11067|
++------------+-----+
+
+Processing Time: 13.145299911499023
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|13626|
+|       hover|13620|
+|more_details|13624|
++------------+-----+
+
+Processing Time: 13.948010206222534
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|16046|
+|       hover|16038|
+|more_details|16043|
++------------+-----+
+
+Processing Time: 12.874204874038696
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|18383|
+|       hover|18375|
+|more_details|18378|
++------------+-----+
+
+Processing Time: 12.569206953048706
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|20950|
+|       hover|20946|
+|more_details|20952|
++------------+-----+
+
+Processing Time: 12.70041298866272
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|23338|
+|       hover|23341|
+|more_details|23341|
++------------+-----+
+
+Processing Time: 14.442764043807983
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|26035|
+|       hover|26047|
+|more_details|26037|
++------------+-----+
+
+Processing Time: 16.37772798538208
++------------+-----+
+|  event_name|count|
++------------+-----+
+| add_to_list|28821|
+|       hover|28832|
+|more_details|28834|
++------------+-----+
+
+Processing Time: 14.644845008850098

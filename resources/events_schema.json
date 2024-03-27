@@ -1,0 +1,101 @@
+[{
+    "category_name": "watch",
+
+    "required_attributes": [{
+        "name": "video_id",
+        "data_type": "int 1 100"
+    }, {
+        "name": "user_id",
+        "data_type": "int 1 100"
+    }, {
+        "name": "ip",
+        "data_type": "ip"
+    }, {
+        "name": "timestamp",
+        "data_type": "datetime"
+    }],
+
+    "events": [{
+        "event_name": "play",
+        "number": 10000,
+        "required_attributes": [{
+            "name": "time",
+            "data_type": "int 1 60"
+        }]
+    }, {
+        "event_name": "pause",
+        "number": 10000,
+        "required_attributes": [{
+            "name": "time",
+            "data_type": "int 1 60"
+        }]
+    }, {
+        "event_name": "seek",
+        "number": 10000,
+        "required_attributes": [{
+            "name": "start_time",
+            "data_type": "int 1 60"
+        }, {
+            "name": "end_time",
+            "data_type": "int 1 60"
+        }]
+    }, {
+        "event_name": "exit",
+        "number": 10000,
+        "required_attributes": [{
+            "name": "time",
+            "data_type": "int 1 60"
+        }]
+    }]
+}, {
+    "category_name": "browse",
+
+    "required_attributes": [{
+        "name": "video_id",
+        "data_type": "int 1 100"
+    }, {
+        "name": "user_id",
+        "data_type": "int 1 100"
+    }, {
+        "name": "row",
+        "data_type": "string genre"
+    }, {
+        "name": "ip",
+        "data_type": "ip"
+    }, {
+        "name": "timestamp",
+        "data_type": "datetime"
+    }],
+
+    "events": [{
+        "event_name": "add_to_list",
+        "number": 10
+    }, {
+        "event_name": "hover",
+        "number": 10
+    }, {
+        "event_name": "more_details",
+        "number": 10
+    }]
+}, {
+    "category_name": "search",
+
+    "required_attributes": [{
+        "name": "term",
+        "data_type": "string term"
+    }, {
+        "name": "genre",
+        "data_type": "string genre"
+    }, {
+        "name": "ip",
+        "data_type": "ip"
+    }, {
+        "name": "timestamp",
+        "data_type": "datetime"
+    }],
+
+    "events": [{
+        "event_name": "search",
+        "number": 10000
+    }]
+}]
